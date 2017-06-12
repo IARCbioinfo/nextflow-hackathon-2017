@@ -3,17 +3,17 @@
 ## Todo list
 
 * Harmonisation :
- * README
- * Nom des paramètres
- * Affichage de l’aide
- * Licence et contributions
- * Config nextflow
- * flowchart
+  * README
+  * Nom des paramètres
+  * Affichage de l’aide
+  * Licence et contributions
+  * Config nextflow
+  * flowchart
 * Création d’un repository référençant les pipelines et centralisant les informations communes (installation de nextflow, configuration etc.).
 * Création d’un site web readthedocs
 * Best practices pour le développement
- * Github (issues, branches, releases, changelog)
- * Nextflow
+  * Github (issues, branches, releases, changelog)
+  * Nextflow
 * Docker/singularity
 * Avoir un mini dataset pour chaque pipeline pour les tests
 * Publication dans un journal scientifique
@@ -23,9 +23,9 @@
 
 ## Liens
 
-- Github markdown cheatsheet : https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-- Nextflow doc : https://www.nextflow.io/docs/latest/index.html
-- Readthedocs doc : http://docs.readthedocs.io/en/latest/
-- Docker Hub IARCbioinfo : https://hub.docker.com/u/iarcbioinfo/
-- Nextflow toy example : https://github.com/nextflow-io/rnatoy
-- Nextflow Github : https://github.com/nextflow-io
+* Github markdown cheatsheet : https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+* Nextflow doc : https://www.nextflow.io/docs/latest/index.html
+* Readthedocs doc : http://docs.readthedocs.io/en/latest/
+* Docker Hub IARCbioinfo : https://hub.docker.com/u/iarcbioinfo/
+* Nextflow toy example : https://github.com/nextflow-io/rnatoy
+* Nextflow Github : https://github.com/nextflow-io

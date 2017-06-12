@@ -1,5 +1,7 @@
 # <img align="center" src="https://www.nextflow.io/img/nextflow2014_no-bg.png" width="150"> hackathon 2017
 
+<img align="center" src="http://www.doitrightplumbers.com/images/Logo.png" width="250"> <img align="center" src="https://turbine-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/Keep-it-simple-stupid-2-660x440.jpg" width="350">
+
 ## Todo list
 
 * Harmonisation :

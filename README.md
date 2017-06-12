@@ -22,9 +22,9 @@
 * Best practices pour le développement
   * Github (issues, branches, releases, changelog)
   * Nextflow
-* Docker/singularity
+* Docker/singularity (see https://github.com/nextflow-io/rnatoy/blob/master/Singularity or https://github.com/nextflow-io/nextflow/issues/356)
 * Avoir un mini dataset pour chaque pipeline pour les tests
-* Publication dans un journal scientifique
+* Publication dans un journal scientifique (https://genomebiology.biomedcentral.com/submission-guidelines/preparing-your-manuscript/software, https://genomemedicine.biomedcentral.com/submission-guidelines/preparing-your-manuscript/software, )
 * CircleCI pour des tests automatisés
 * Fichier de config nextflow pour notre cluster
 * Réorganisation des repositories en catégories

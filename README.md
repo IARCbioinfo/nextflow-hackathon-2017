@@ -20,8 +20,9 @@
   * Mutspec
   * Méthylation
 * Best practices pour le développement
-  * Github (issues, branches, releases, changelog)
-  * Nextflow
+  * Github (issues, branches, releases, changelog, syntax color enabling)
+  * Nextflow (optional and parallel processes, publishdir, java)
+  * R scripts (input, parsing des options, output)
 * Docker/singularity (see https://github.com/nextflow-io/rnatoy/blob/master/Singularity or https://github.com/nextflow-io/nextflow/issues/356)
 * Avoir un mini dataset pour chaque pipeline pour les tests
 * Publication dans un journal scientifique (https://genomebiology.biomedcentral.com/submission-guidelines/preparing-your-manuscript/software, https://genomemedicine.biomedcentral.com/submission-guidelines/preparing-your-manuscript/software, http://www.nature.com/nbt/authors/article_types/index.html)
@@ -29,6 +30,8 @@
 * Fichier de config nextflow pour notre cluster
 * Réorganisation des repositories en catégories
 * Logo
+* Faire un dossier interne a l'IARC avec infos specifiques au cluster Jupiter : chemin d'acces reference genomes pour chaque pipeline, GATK bundles, exemples de commandes pour chaque pipeline...
+ 
 
 ## Liens
 

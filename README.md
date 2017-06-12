@@ -9,8 +9,14 @@
   * Licence et contributions
   * Config nextflow
   * flowchart
+  * topics (https://github.com/orgs/IARCbioinfo/topics)
 * Création d’un repository référençant les pipelines et centralisant les informations communes (installation de nextflow, configuration etc.).
 * Création d’un site web readthedocs
+* Nouvelles pipelines:
+  * Platypus
+  * ANNOVAR
+  * Mutspec
+  * Méthylation
 * Best practices pour le développement
   * Github (issues, branches, releases, changelog)
   * Nextflow
@@ -20,6 +26,7 @@
 * CircleCI pour des tests automatisés
 * Fichier de config nextflow pour notre cluster
 * Réorganisation des repositories en catégories
+* Logo
 
 ## Liens
 

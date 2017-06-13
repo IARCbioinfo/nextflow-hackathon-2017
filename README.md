@@ -20,6 +20,7 @@
   * Mutspec
   * Méthylation
   * QC DNA-seq (multi-QC ?)
+  * Pipeline "universelle"
 * Best practices pour le développement
   * Github (issues, branches, releases, changelog, syntax color enabling)
   * Nextflow (optional and parallel processes, publishdir, java)
@@ -32,7 +33,7 @@
 * Réorganisation des repositories en catégories
 * Logo
 * Faire un dossier interne a l'IARC avec infos specifiques au cluster Jupiter : chemin d'acces reference genomes pour chaque pipeline, GATK bundles, exemples de commandes pour chaque pipeline...
- 
+
 
 ## Liens
 

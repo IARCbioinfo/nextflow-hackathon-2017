@@ -19,6 +19,7 @@
   * ANNOVAR
   * Mutspec
   * Méthylation
+  * QC DNA-seq (multi-QC ?)
 * Best practices pour le développement
   * Github (issues, branches, releases, changelog, syntax color enabling)
   * Nextflow (optional and parallel processes, publishdir, java)

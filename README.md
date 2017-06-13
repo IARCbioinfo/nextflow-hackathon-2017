@@ -5,12 +5,12 @@
 ## Todo list
 
 * Harmonisation :
-  * README
-  * Nom des paramètres
-  * Affichage de l’aide
-  * Licence et contributions
-  * Config nextflow
-  * flowchart
+  * [x] README
+  * [x] Nom des paramètres
+  * [x] Affichage de l’aide
+  * [x] Licence et contributions
+  * [x] Config nextflow
+  * [x] flowchart
   * topics (https://github.com/orgs/IARCbioinfo/topics)
 * Création d’un repository référençant les pipelines et centralisant les informations communes (installation de nextflow, configuration etc.).
 * Création d’un site web readthedocs
